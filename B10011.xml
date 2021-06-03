@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several reasons humbly offered to consideration, why a pound rate, for paving the streets of the city of London, should not be imposed upon the inhabitants thereof.</title>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10011</idno><idno type="EEBO-CITATION">69648928</idno>
+  <idno type="VID">185080</idno>
+  <idno type="EEBO-PROQUEST">2240858980</idno>
+  
+            <idno type="STC">Wing S2807B</idno>
+            <idno type="STC">ESTC R183769</idno>
+            <idno type="OCLC">69648928</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B10011)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185080)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2886:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several reasons humbly offered to consideration, why a pound rate, for paving the streets of the city of London, should not be imposed upon the inhabitants thereof.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Pavements --  Maintenance and repair --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Roads --  England --  London --  Maintenance and repair --  Early works to 1800.</term>
+               <term type="topical_term">Roads --  Finance --  Law and legislation --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:185080:1"/>
+            <head>SEVERAL REASONS Humbly offered to consideration, why a Pound Rate, for Paving the Streets of the City of LONDON, should not be imposed upon the Inhabitants thereof.</head>
+            <p n="1">I. EVery Man, being compellable to pave his own door, is free to do it (when ever defective) without complaining, and no Man, after warning, refuses or neglects, for fear of incur<g ref="char:EOLhyphen"/>ring a greater damage than the Charge amounts unto.</p>
+            <p n="2">II. Any Man may pave his own door at a less charge, then it will cost the Commissioners; the Paviors making great waste of Stones, and gra<g ref="char:EOLhyphen"/>vel, and slighting the Work, (when done upon a Publique account) and puting in soft Stones, which being done at a wet Sea<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, quickly turn to dirt: One reason whereof is, their not being duely paid, or being for<g ref="char:EOLhyphen"/>ced to give large gratuities to get their mony, when the work is done.</p>
+            <p n="3">III. If a Man paves his own door (his interest inducing him there<g ref="char:EOLhyphen"/>unto) he buyes the best Materials, and takes the best Season, as soon as need requires, which renders the charge much less than it would be, if longer neglected.</p>
+            <p n="4">IV. If but four pence <hi>per</hi> pound be charged upon the yearly rents, it is supposed it will raise a far greater Sum than the whole Paveing will cost to be well done. And if six pence <hi>per</hi> pound (as some design) it will fur<g ref="char:EOLhyphen"/>ther encrease the charge; in many places five times more than need, to the great damage of the Inhabitants.</p>
+            <p n="5">V. It appears to be so remote from Publick good, that it tather looks like an oppressive Monopoly to enrich the designed Undertakers, their Friends, Clerks, and Servants imployed under them; who (being cor<g ref="char:EOLhyphen"/>rupted) for their greater profit, may wholly neglect or retard the amend<g ref="char:EOLhyphen"/>ments to the prejudice of Trade.</p>
+            <p n="6">VI. It seems very unreasonable, that Courts or Allies, paved with Free-stone (at the great chatge of the Builders) made to last twenty or thirty years, with little or no amendment, should have a rent charge in<g ref="char:EOLhyphen"/>tayled upon them, contrary to former usages and customes.</p>
+            <p n="7">VII. It will be a great discouragement to the present Tenants (the first of whom (building being dear) pay too great Rents) to have a further continued Imposition laid upon them; and will obstruct the letting Empty Houses, or cause the fall of their expected Rents, to the great prejudice of Landlords.</p>
+            <p n="8">VIII. Since the publick Paveing many Streets have lain so ruinous, as to endanger men and horses; which, with other great taxes upon the Ci<g ref="char:EOLhyphen"/>ty (more than upon the out parts) hath hindred many of its former In<g ref="char:EOLhyphen"/>habitants from returning, and caused divers after their return and set<g ref="char:EOLhyphen"/>tling at a great charge, to return back (leaving their houses empty) to prevent their utter ruin.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
